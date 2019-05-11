@@ -277,4 +277,7 @@ footer p {
   .steps img {
     width: 50%;
   }
+  .btn-steps {
+    width: 50%;
+  }
 }
