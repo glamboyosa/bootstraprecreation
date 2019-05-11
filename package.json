@@ -1,0 +1,16 @@
+{
+  "name": "Bootstrap",
+  "version": "1.0.0",
+  "description": "A recreation of Bootstrap 4's home page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://glamboyosa.github.io/bootstrap",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
